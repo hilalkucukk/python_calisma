@@ -1,0 +1,1 @@
+## Çalıştığım python konularını not alacağım repo
